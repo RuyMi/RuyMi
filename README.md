@@ -3,7 +3,7 @@
 
 ![OctoGato_RuyMi](/Imagenes/octogato.png)
 
-Soy actualmente estudiante de 1º DAM en el IES Luis Vives.
+Soy actualmente estudiante de 1º DAM en el IES Luis Vives. ![Gato_teclado](/Imagenes/gato.gif)
 
 ![Logo_IES_Luis_Vives](/Imagenes/logo.png)
 
@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
