@@ -34,6 +34,7 @@
 * Correo: ruben.garciaredondo@alumno.iesluisvives.org
 * Discord: RuyMi#3479
 * Instagram: rubengrm2002
+* Twitter: rubengrm2002
 
 --------------------------------------------------------------------------------
 
