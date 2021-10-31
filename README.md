@@ -1,30 +1,49 @@
-### Hola, soy Rubén 👋
+### <h1 align="center"> Hola, soy Rubén 👋
+# <h1 align="center" width= "34" height= "32"> <img src="Imagenes/Rubén.png" alt="Presentacion" width="800" height="425"/>
+
+>## <h2 align= "center"> §Datos Personales§
+
+* Nombre: Rubén García-Redondo Marín
+* Edad: 19 años
+* Estudiante
+
+--------------------------------------------------------------------------------
 
 
-![OctoGato_RuyMi](/Imagenes/octogato.png)
 
-Soy actualmente estudiante de 1º DAM en el IES Luis Vives. ![Gato_teclado](/Imagenes/gato.gif)
+>📚 Soy actualmente estudiante de 1º DAM en el IES Luis Vives. <img src="Imagenes/gato.gif" alt="gif_gato" width="22"/>
 
 ![Logo_IES_Luis_Vives](/Imagenes/logo.png)
 
+--------------------------------------------------------------------------------
+
+>🚀 Actualmente utilizo los siguientes lenguajes:
+
+* <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> Java
+* <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />  TypeScript
+* <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript 
+* <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> Git
+* <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL
+* <img width="20px" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png" /> HTML5
+
+--------------------------------------------------------------------------------
 
 
- ###### 👁‍🗨 Mis redes sociales:
+> ## <h2 align= "center"> §Contacto§:
+
+* Correo: ruben.garciaredondo@alumno.iesluisvives.org
+* Discord: RuyMi#3479
+* Instagram: rubengrm2002
+
+--------------------------------------------------------------------------------
+
+ ## <h2 align= "center"> §Redes Sociales§:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rubengrm2002?color=1DA1F2&label=RuyMi&logo=twitter&style=flat-square)
 
-<!--
-**RuyMi/RuyMi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Git Follow](https://img.shields.io/github/followers/RuyMi?style=social)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# <h1 align="center" width= "34" height= "32"> <img src="Imagenes/octogato.png" alt="Octogato_RuyMi" width="200"/>
 
--->
+
