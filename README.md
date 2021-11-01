@@ -11,7 +11,7 @@
 
 
 
->📚 Soy actualmente estudiante de 1º DAM en el IES Luis Vives. <img src="Imagenes/gato.gif" alt="gif_gato" width="22"/>
+>📚 Soy actualmente estudiante de 1º DAM en el IES Luis Vives. Desde hace varios me empezó a llamar la programación y decidí estduiar para sacar mi máximo potencial. <img src="Imagenes/gato.gif" alt="gif_gato" width="22"/>
 
 ![Logo_IES_Luis_Vives](/Imagenes/logo.png)
 
@@ -35,6 +35,7 @@
 * Discord: RuyMi#3479
 * Instagram: rubengrm2002
 * Twitter: rubengrm2002
+* LinkedIn: [Rubén García-Redondo Marín][website]
 
 --------------------------------------------------------------------------------
 
@@ -48,3 +49,5 @@
 # <h1 align="center" width= "34" height= "32"> <img src="Imagenes/octogato.png" alt="Octogato_RuyMi" width="200"/>
 
 
+<!-- Links -->
+[website]: https://www.linkedin.com/in/rubén-garc%C3%ADa-redondo-mar%C3%ADn-59b36b225/
