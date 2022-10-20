@@ -11,7 +11,7 @@
 
 
 
->📚 Soy actualmente estudiante de 1º DAM en el IES Luis Vives. Desde hace varios me empezó a llamar la programación y decidí estduiar para sacar mi máximo potencial. <img src="Imagenes/gato.gif" alt="gif_gato" width="22"/>
+>📚 Soy actualmente estudiante de 2º DAM en el IES Luis Vives. Desde hace varios me empezó a llamar la programación y decidí estduiar para sacar mi máximo potencial. <img src="Imagenes/gato.gif" alt="gif_gato" width="22"/>
 
 ![Logo_IES_Luis_Vives](/Imagenes/logo.png)
 
