@@ -4,8 +4,8 @@
 >## <h2 align= "center"> §Datos Personales§
 
 * Nombre: Rubén García-Redondo Marín
-* Edad: 19 años
-* Estudiante
+* Edad: 20 años
+* Estudiante en prácticas
 
 --------------------------------------------------------------------------------
 
